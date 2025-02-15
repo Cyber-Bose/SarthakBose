@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Student <br> B.Tech Electronics and Communication Engineering [2022-26]<br>Aspiring Full Stack Web Developer<br>
 
 
 ## 🌐 Socials:
