@@ -51,7 +51,7 @@
 ---
 
 ## 🧠 Problem Solving
-- ✅ Solved 80+ DSA problems on [LeetCode](https://leetcode.com/)
+- ✅ Solved 80+ DSA problems on [LeetCode](https://leetcode.com/u/12sci1025sarthakbose/)
 - 💡 Continuously improving problem-solving and algorithmic thinking
 
 ---
