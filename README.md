@@ -2,7 +2,7 @@
 🎓 Electronics and Communication Engineering  
 💻 Aspiring Full Stack Web Developer with a passion for both frontend and backend technologies  
 🚀 Focused on building scalable, user-centric web applications  
-🌱 Currently exploring advanced web frameworks, cloud services & DSA problem-solving
+🌱 Currently exploring Advanced Web Frameworks, Blockchains & DSA problem-solving
 
 ![gitartwork](gitartwork.svg)
 
@@ -23,7 +23,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -36,12 +35,24 @@
 **Backend & Tools:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-**Database & DevOps:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
+**Database & DevOps:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  
+
+**Blockchain:**  
+![Solana](https://img.shields.io/badge/Solana-%23208F94.svg?style=for-the-badge&logo=solana&logoColor=white)  
+![Metamask](https://img.shields.io/badge/MetaMask-%23F6851B.svg?style=for-the-badge&logo=metamask&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+---
 
 ## 🏆 Achievements:
 - **Top 10 Finalist** in the **Sanrakshan** and **Supply Connect** categories at **IIT Bombay Techfest**.
@@ -49,15 +60,8 @@
 ---
 
 ## 🧠 Problem Solving
-- ✅ Solved 80+ DSA problems on [LeetCode](https://leetcode.com/u/12sci1025sarthakbose/)
+- ✅ Solved 80+ DSA problems on [LeetCode](https://leetcode.com/u/12sci1025sarthakbose/)  
 - 💡 Continuously improving problem-solving and algorithmic thinking
-
----
-
-## 🚀 Featured Projects:
-[![MovieHub](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-Bose&repo=MovieHub&theme=dark)](https://github.com/Cyber-Bose/MovieHub)
-[![CHITRA AI](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-Bose&repo=CHITRA-AI&theme=dark)](https://github.com/Cyber-Bose/CHITRA-AI)
-
 
 ---
 
