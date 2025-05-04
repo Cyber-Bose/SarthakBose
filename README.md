@@ -40,15 +40,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+**Database & DevOps:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
-**Database & DevOps:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  
-
----
 
 ## 🏆 Achievements:
 - **Top 10 Finalist** in the **Sanrakshan** and **Supply Connect** categories at **IIT Bombay Techfest**.
@@ -62,8 +55,9 @@
 ---
 
 ## 🚀 Featured Projects:
-[![CHITRA AI](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-Bose&repo=CHITRA-AI&theme=dark)](https://github.com/Cyber-Bose/CHITRA-AI)
 [![MovieHub](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-Bose&repo=MovieHub&theme=dark)](https://github.com/Cyber-Bose/MovieHub)
+[![CHITRA AI](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-Bose&repo=CHITRA-AI&theme=dark)](https://github.com/Cyber-Bose/CHITRA-AI)
+
 
 ---
 
