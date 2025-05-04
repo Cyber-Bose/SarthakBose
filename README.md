@@ -1,8 +1,8 @@
 # 💫 About Me:
 🎓 B.Tech in Electronics and Communication Engineering (2022–2026)  
-💻 Aspiring Full Stack Web Developer with strong interest in both Frontend and Backend technologies  
-🚀 Passionate about building scalable, user-focused web applications  
-🌱 Currently exploring advanced web frameworks and cloud integrations  
+💻 Aspiring Full Stack Web Developer with a passion for both frontend and backend technologies  
+🚀 Focused on building scalable, user-centric web applications  
+🌱 Currently exploring advanced web frameworks, cloud services & DSA problem-solving
 
 ![gitartwork](gitartwork.svg)
 
@@ -50,9 +50,20 @@
 
 ---
 
+## 🧠 Problem Solving
+- ✅ Solved 80+ DSA problems on [LeetCode](https://leetcode.com/)
+- 💡 Continuously improving problem-solving and algorithmic thinking
+
+---
+
+## 🚀 Featured Projects:
+[![CHITRA AI](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-Bose&repo=CHITRA-AI&theme=dark)](https://github.com/Cyber-Bose/CHITRA-AI)
+[![MovieHub](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-Bose&repo=MovieHub&theme=dark)](https://github.com/Cyber-Bose/MovieHub)
+
+---
+
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Bose&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Bose&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Bose&theme=dark&hide_border=false&layout=compact)
 
 ---
