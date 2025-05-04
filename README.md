@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech in Electronics and Communication Engineering (2022–2026)  
+🎓 Electronics and Communication Engineering  
 💻 Aspiring Full Stack Web Developer with a passion for both frontend and backend technologies  
 🚀 Focused on building scalable, user-centric web applications  
 🌱 Currently exploring advanced web frameworks, cloud services & DSA problem-solving
@@ -50,9 +50,20 @@
 
 ---
 
+## 🏆 Achievements:
+- **Top 10 Finalist** in the **Sanrakshan** and **Supply Connect** categories at **IIT Bombay Techfest**.
+
+---
+
 ## 🧠 Problem Solving
 - ✅ Solved 80+ DSA problems on [LeetCode](https://leetcode.com/u/12sci1025sarthakbose/)
 - 💡 Continuously improving problem-solving and algorithmic thinking
+
+---
+
+## 🚀 Featured Projects:
+[![CHITRA AI](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-Bose&repo=CHITRA-AI&theme=dark)](https://github.com/Cyber-Bose/CHITRA-AI)
+[![MovieHub](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-Bose&repo=MovieHub&theme=dark)](https://github.com/Cyber-Bose/MovieHub)
 
 ---
 
